@@ -13,3 +13,4 @@
 - In order to pull the remote commits from the origin you use ```git pull```
 - In order to push the local commits to the origin you use ```git push```
 - If you have checked out a branch for the first time, when you push it, you might have to specify how it maps onto a branch on the remote. Thus you use ```--set-upstream (or -u)``` on push. Like this: ```git push -u origin <branch-name>```. You only have to do it upon the first push.
+- To clone a repo you use ```git clone <URL>```
